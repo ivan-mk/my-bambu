@@ -1,4 +1,3 @@
-
 # MyBambu Expo App
 
 Welcome to your modern Expo-powered mobile banking app! �
@@ -43,10 +42,12 @@ Below is a screenshot of the app running on an iPhone:
 
 1. **Install dependencies**
    ```bash
+   cd test
    npm install
    ```
 2. **Start the app**
    ```bash
+   cd test
    npx expo start
    ```
 
