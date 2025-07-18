@@ -32,7 +32,7 @@ Welcome to your modern Expo-powered mobile banking app! �
 Below is a screenshot of the app running on an iPhone:
 
 
-<img src="assets/images/iphone-showcase.jpg" alt="App Screenshot" width="300" style="border-radius:16px; box-shadow:0 2px 8px #0002;" />
+<img src="test/assets/images/iphone-showcase.jpg" alt="App Screenshot" width="300" style="border-radius:16px; box-shadow:0 2px 8px #0002;" />
 
 > **Note:** This app has only been tested on iPhone.
 
