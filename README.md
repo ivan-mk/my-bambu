@@ -1,6 +1,6 @@
 # MyBambu Expo App
 
-Welcome to your modern Expo-powered mobile banking app! �
+Welcome to your modern Expo-powered mobile banking app!
 
 
 ## 🏗️ App Structure & Technologies
